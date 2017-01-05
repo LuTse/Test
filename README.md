@@ -1,2 +1,4 @@
 # Test
-Name says it all - just trying to get started
+Name says it all
+
+Looking forward to work with git like a real pro soon! ;)
